@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+int main(){
+        int nomorAngka[10]={
+        123,
+        123,
+        445,
+    };
+    cout<<nomorAngka[4];
+    
+
+    return 0;
+}
